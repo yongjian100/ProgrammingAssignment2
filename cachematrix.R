@@ -28,6 +28,6 @@ cacheSolve <- function(x=matrix(), ...) {
     m<-solve(matrix, ...)
     x$setmatrix(m)
     m
-}
 
+}
 
